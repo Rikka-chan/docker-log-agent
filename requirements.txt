@@ -1,0 +1,7 @@
+flask
+Flask-JSONRPC
+tailer
+gunicorn
+gevent
+docker-py
+

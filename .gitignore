@@ -1,0 +1,8 @@
+*/.idea/*
+.idea/*
+*/template/*
+venv/*
+*.pyc
+*~
+generate.py
+test.py
